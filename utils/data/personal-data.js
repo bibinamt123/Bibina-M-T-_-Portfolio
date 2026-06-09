@@ -8,5 +8,5 @@ export const personalData = {
   address: 'Kozhikode , Kerala',
   github: 'https://github.com/bibinamt123',
   linkedIn: 'https://www.linkedin.com/in/mtbibina/',
-  resume: "https://drive.google.com/file/d/1qQnWXfqaeHAQbN--FJl-_YGVT5G57qE6/view"
+  resume: "https://drive.google.com/file/d/12dd4qTArr19Gr5gvVANiUleAa9L6jrET/view?usp=sharing"
 }
